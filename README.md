@@ -41,6 +41,7 @@ I wanted to build a real-time communication app that felt smooth and responsive.
 
 
 -/app
+
   |-core
   |-interfaces
   |-services
